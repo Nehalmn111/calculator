@@ -12,4 +12,5 @@ A simple Python calculator that can perform:
 3. Run the calculator:
 
 ```bash
+
 python calculator.py
